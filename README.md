@@ -3,8 +3,7 @@ A complete NodeJS + Express + PassportJS + JWT authentication app:
 
 # Important links
 
-- Hosting Link: 
-- Explaination Link: 
+- Hosting Link: https://nodejs-auth-mfcy.onrender.com/
 
 # Tech stack
 - express: it is managing the frontend of this App
